@@ -1,4 +1,4 @@
-# workshop
+# vchrombie.github.io/workshop
 
 Please find the below pdf
 
