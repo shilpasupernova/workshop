@@ -8,4 +8,4 @@ This is day 1
 
 - [Day 2](https://vchrombie.github.io/workshop/day2.pdf)
 
-dummy commits
+dummy comments
